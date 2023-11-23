@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "name": "qpgenerator",
+  "version": "1.0.0",
+  "description": "This is a Question Paper Generator.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aryansh",
+  "license": "ISC",
+  "keywords": []
+}

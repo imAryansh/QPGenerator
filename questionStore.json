@@ -1,0 +1,352 @@
+[
+    {
+      "question": "What is the speed of light?",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Describe Newton's First Law of Motion.",
+      "subject": "Physics",
+      "topic": "Classical Mechanics",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Explain the concept of photosynthesis.",
+      "subject": "Biology",
+      "topic": "Botany",
+      "difficulty": "Medium",
+      "marks": 7
+    },
+    {
+      "question": "What are the properties of acids and bases?",
+      "subject": "Chemistry",
+      "topic": "Acids and Bases",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Solve the equation: 2x + 5 = 15",
+      "subject": "Mathematics",
+      "topic": "Equations",
+      "difficulty": "Easy",
+      "marks": 6
+    },
+    {
+      "question": "What is the capital of France?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "subject": "Literature",
+      "topic": "Authors",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "subject": "Astronomy",
+      "topic": "Planets",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Define the concept of supply and demand.",
+      "subject": "Economics",
+      "topic": "Microeconomics",
+      "difficulty": "Medium",
+      "marks": 7
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "subject": "Art",
+      "topic": "Paintings",
+      "difficulty": "Easy",
+      "marks": 6
+    },
+    {
+      "question": "What is the formula for calculating density?",
+      "subject": "Science",
+      "topic": "Physics",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Explain the process of cellular respiration.",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "difficulty": "Hard",
+      "marks": 9
+    },
+    {
+      "question": "What is the Pythagorean theorem?",
+      "subject": "Mathematics",
+      "topic": "Geometry",
+      "difficulty": "Medium",
+      "marks": 7
+    },
+    {
+      "question": "Name the four main types of tissues in the human body.",
+      "subject": "Biology",
+      "topic": "Human Anatomy",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Who invented the telephone?",
+      "subject": "History",
+      "topic": "Inventions",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "What is the difference between weather and climate?",
+      "subject": "Environmental Science",
+      "topic": "Meteorology",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the formula for acceleration?",
+      "subject": "Physics",
+      "topic": "Motion",
+      "difficulty": "Medium",
+      "marks": 7
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "subject": "Literature",
+      "topic": "Authors",
+      "difficulty": "Easy",
+      "marks": 6
+    },
+    {
+      "question": "What is the atomic number of oxygen?",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "subject": "Geography",
+      "topic": "Oceans",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "subject": "Chemistry",
+      "topic": "States of Matter",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Solve the quadratic equation: x^2 + 5x + 6 = 0",
+      "subject": "Mathematics",
+      "topic": "Equations",
+      "difficulty": "Hard",
+      "marks": 9
+    },
+    {
+      "question": "Who was the first female Prime Minister of India?",
+      "subject": "History",
+      "topic": "World Leaders",
+      "difficulty": "Medium",
+      "marks": 7
+    },
+    {
+      "question": "What is the composition of Earth's atmosphere?",
+      "subject": "Environmental Science",
+      "topic": "Atmosphere",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "Who painted the 'Starry Night'?",
+      "subject": "Art",
+      "topic": "Paintings",
+      "difficulty": "Easy",
+      "marks": 6
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "subject": "Chemistry",
+      "topic": "Compounds",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Explain the law of conservation of energy.",
+      "subject": "Physics",
+      "topic": "Energy",
+      "difficulty": "Hard",
+      "marks": 9
+    },
+    {
+      "question": "Who is the author of '1984'?",
+      "subject": "Literature",
+      "topic": "Authors",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the study of fossils called?",
+      "subject": "Biology",
+      "topic": "Paleontology",
+      "difficulty": "Medium",
+      "marks": 7
+    },
+    {
+      "question": "What is the freezing point of water in Fahrenheit?",
+      "subject": "Chemistry",
+      "topic": "States of Matter",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Who proposed the theory of relativity?",
+      "subject": "Physics",
+      "topic": "Theoretical Physics",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "What is the value of pi (π) to two decimal places?",
+      "subject": "Mathematics",
+      "topic": "Geometry",
+      "difficulty": "Easy",
+      "marks": 6
+    },
+    {
+      "question": "Explain the concept of inflation.",
+      "subject": "Economics",
+      "topic": "Macroeconomics",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "Who painted the 'Mona Lisa'?",
+      "subject": "Art",
+      "topic": "Paintings",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the process of turning gas into a liquid called?",
+      "subject": "Chemistry",
+      "topic": "States of Matter",
+      "difficulty": "Medium",
+      "marks": 7
+    },
+    {
+      "question": "What is the main function of the heart?",
+      "subject": "Biology",
+      "topic": "Human Anatomy",
+      "difficulty": "Hard",
+      "marks": 9
+    },
+    {
+      "question": "Who was the first president of the United States?",
+      "subject": "History",
+      "topic": "World Leaders",
+      "difficulty": "Easy",
+      "marks": 4
+    },
+    {
+      "question": "What is the structure responsible for photosynthesis in plants?",
+      "subject": "Biology",
+      "topic": "Botany",
+      "difficulty": "Medium",
+      "marks": 7
+    },
+    {
+      "question": "What is the formula for the area of a circle?",
+      "subject": "Mathematics",
+      "topic": "Geometry",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "subject": "Literature",
+      "topic": "Authors",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "What is the atomic number of hydrogen?",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Easy",
+      "marks": 6
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "subject": "Geography",
+      "topic": "Rivers",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "What is the formula for finding the volume of a sphere?",
+      "subject": "Mathematics",
+      "topic": "Geometry",
+      "difficulty": "Medium",
+      "marks": 7
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "subject": "Biology",
+      "topic": "Discoveries",
+      "difficulty": "Hard",
+      "marks": 10
+    },
+    {
+      "question": "What is the structure responsible for hearing in humans?",
+      "subject": "Biology",
+      "topic": "Human Anatomy",
+      "difficulty": "Medium",
+      "marks": 8
+    },
+    {
+      "question": "What is the boiling point of water in Kelvin?",
+      "subject": "Chemistry",
+      "topic": "States of Matter",
+      "difficulty": "Easy",
+      "marks": 6
+    },
+    {
+      "question": "Who developed the theory of evolution?",
+      "subject": "Biology",
+      "topic": "Evolution",
+      "difficulty": "Hard",
+      "marks": 9
+    },
+    {
+      "question": "What is the formula for the area of a triangle?",
+      "subject": "Mathematics",
+      "topic": "Geometry",
+      "difficulty": "Medium",
+      "marks": 7
+    },
+    {
+      "question": "Who is the author of 'Pride and Prejudice'?",
+      "subject": "Literature",
+      "topic": "Authors",
+      "difficulty": "Easy",
+      "marks": 5
+    }
+  ]
